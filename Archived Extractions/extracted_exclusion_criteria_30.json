@@ -1,0 +1,530 @@
+[
+    {
+        "Trial Text": "\n\npregnant or lactating women.\nprior allergic reaction to immunoglobulins or immunoglobulin allergy.\ninability to comply with study procedures",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No"
+            },
+            "health_and_organ_function": {
+                "no_pregnancy_nursing": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "prior allergic reaction to immunoglobulins or immunoglobulin allergy."
+            },
+            "unused_text": {
+                "inclusion_criteria": "inability to comply with study procedures"
+            }
+        }
+    },
+    {
+        "Trial Text": NaN,
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {},
+            "disease_characteristics": {},
+            "health_and_organ_function": {},
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "historical treatments, investigational drug use, historical allergies, current treatment, current disease"
+            },
+            "unused_text": {
+                "inclusion_criteria": "nan"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\npreviously received eribulin.\nperipheral neuropathy > grade 2.\nreceipt of any other investigational agent within the 28 days prior to day 1.\nreceipt of colony stimulating factor filgrastim, pegfilgrastim, or sargramostim within 14 days prior to day 1.\nradiation therapy within the 14 days prior to day 1.\nsevere concurrent illness or psychiatric illness/social situation that would limit compliance with study requirements.\nhistory of other malignancy \u201a\u00e2\u00a7 5 years previous with the exception of basal cell or squamous cell carcinoma of the skin which were treated with local resection only or carcinoma in situ of the cervix.\npregnant or breastfeeding.\nknown hiv positivity on combination antiretroviral therapy; these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_pregnancy_nursing": "Yes",
+                "no_positive_hiv_status": "Yes"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "previously received eribulin. history of other malignancy \u201a\u00e2\u00a7 5 years previous with the exception of basal cell or squamous cell carcinoma of the skin which were treated with local resection only or carcinoma in situ of the cervix."
+            },
+            "unused_text": {
+                "inclusion_criteria": "receipt of any other investigational agent within the 28 days prior to day 1. receipt of colony stimulating factor filgrastim, pegfilgrastim, or sargramostim within 14 days prior to day 1. radiation therapy within the 14 days prior to day 1. severe concurrent illness or psychiatric illness/social situation that would limit compliance with study requirements."
+            }
+        }
+    },
+    {
+        "Trial Text": NaN,
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {},
+            "disease_characteristics": {},
+            "health_and_organ_function": {},
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "historical treatments, investigational drug use, historical allergies, current treatment, current disease"
+            },
+            "unused_text": {
+                "inclusion_criteria": "nan"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\npatients with malabsorption or dysfunctional gi tract.\nparticipants who have had chemotherapy or radiotherapy (except limited radiotherapy for bone metastasis for instance) within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier.\nparticipants should not receive any other experimental agents.\n\nparticipants with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.\n\nhistory of cardiovascular ischemic disease or cerebrovascular incident within the last six months, nyha class iii and iv congestive heart failure.\nintolerance to atropine sulfate or loperamide\nknown dihydropyrimidine dehydrogenase deficiency\ntreatment with cyp3a4 inducers unless discontinued > 7 days prior to randomization\nany of the following in 3 months prior to inclusion: grade 3-4 gastrointestinal bleeding (unless due to resected tumor), treatment resistant peptic ulcer disease, erosive esophagitis or gastritis, infectious or inflammatory bowel disease, or diverticulitis.\nmajor surgery within 6 weeks.\nuncontrolled concurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\npregnant women, lactation or refusal to use adequate contraceptive measures (hormonal or barrier method of birth control, abstinence).",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of cardiovascular ischemic disease or cerebrovascular incident within the last six months, nyha class iii and iv congestive heart failure. intolerance to atropine sulfate or loperamide known dihydropyrimidine dehydrogenase deficiency treatment with cyp3a4 inducers unless discontinued > 7 days prior to randomization any of the following in 3 months prior to inclusion: grade 3-4 gastrointestinal bleeding (unless due to resected tumor), treatment resistant peptic ulcer disease, erosive esophagitis or gastritis, infectious or inflammatory bowel disease, or diverticulitis. major surgery within 6 weeks."
+            },
+            "unused_text": {
+                "inclusion_criteria": "patients with malabsorption or dysfunctional gi tract. participants who have had chemotherapy or radiotherapy (except limited radiotherapy for bone metastasis for instance) within 4 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier. uncontrolled concurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nsuffering from heart, liver, kidney disease or severe acute and organ invasion disease;\nprior unanticipated severe reaction to fluoropyrimidine therapy, or known sensitivity to 5-fluorouracil, or known dpd (dihydropyrimidine dehydrogenase) deficiency.\npregnant or breast-feeding female\nonly bone metastasis lesions, no other measurable lesions\nknown brain metastasis or history of organ transplantation\nhave long-term systemic steroid therapy\nserious diseases of vital organs; other malignancies which is not cure\nuse of chemotherapy in the last 4 weeks\nhistory of drug/alcohol addiction or a positive hepatitis screen including hepatitis b surface antigen, hcv or hav (igm) antibodies\npatient having abnormal serum calcium level at screening visit which as judged by investigator could lead to safety risk to the patient upon participation in the trial or could interfere with the conduct of the trial.\npre-existing motor or sensory neurotoxicity of a severity grade 2 by nci ctcae criteria or known, existing uncontrolled coagulopathy.\nsubjects are thought unsuitable for the study by investigators;\ninability to comply with protocol or study procedures in the opinion of the investigator;",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_liver_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "No",
+                "measurable_lesion": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "prior unanticipated severe reaction to fluoropyrimidine therapy, or known sensitivity to 5-fluorouracil, or known dpd (dihydropyrimidine dehydrogenase) deficiency. known brain metastasis or history of organ transplantation. have long-term systemic steroid therapy. serious diseases of vital organs; other malignancies which is not cure. use of chemotherapy in the last 4 weeks. history of drug/alcohol addiction or a positive hepatitis screen including hepatitis b surface antigen, hcv or hav (igm) antibodies. patient having abnormal serum calcium level at screening visit which as judged by investigator could lead to safety risk to the patient upon participation in the trial or could interfere with the conduct of the trial. pre-existing motor or sensory neurotoxicity of a severity grade 2 by nci ctcae criteria or known, existing uncontrolled coagulopathy."
+            },
+            "unused_text": {
+                "inclusion_criteria": "subjects are thought unsuitable for the study by investigators; inability to comply with protocol or study procedures in the opinion of the investigator;"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nmore than 3 metastatic chemotherapies\nany severe concomitant condition which makes it undesirable for the patient to participate in the study or which would jeopardize adherence with trial protocol",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "more than 3 metastatic chemotherapies"
+            },
+            "unused_text": {
+                "inclusion_criteria": "any severe concomitant condition which makes it undesirable for the patient to participate in the study or which would jeopardize adherence with trial protocol"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\n1. known medical contraindication for needle biopsy procedure such as bleeding disorder, low platelet count, inability to provide informed consent",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "signed_consent": "No"
+            },
+            "health_and_organ_function": {
+                "plt_level_lower_bound_10_9_l": 0
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "known medical contraindication for needle biopsy procedure such as bleeding disorder"
+            },
+            "unused_text": {
+                "inclusion_criteria": "inability to provide informed consent"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nactive uncontrolled bleeding or bleeding diathesis (e.g., active peptic ulcer disease).\nany active infection requiring parenteral or oral antibiotic treatment.\nknown infection with human immunodeficiency virus (hiv) or hepatitis virus.\npre-existing renal insufficiency. please refer to inclusion criteria no. 10g.\nactive heart disease including myocardial infarction or congestive heart failure within the previous 6 months, symptomatic coronary artery disease, or symptomatic arrhythmias currently requiring medication.\nknown or suspected active central nervous system (cns metastasis). (patients stable 8 weeks after completion of treatment for cns metastasis are eligible).\nautoimmune disease.\nimpending or symptomatic spinal cord compression or carcinomatous meningitis.\npre-existing neuropathy, i.e., grade >1 neuromotor or neurosensory toxicity (as defined by national cancer institute common toxicity criteria for adverse events (nci ctcae) v4,0), except for abnormalities due to cancer.\nknown hypersensitivity to cisplatin or liposomes.\nrequiring immediate palliative treatment of any kind including surgery and/or radiotherapy(except for palliative radiotherapy on non-target lesions).\nfemale patients who are pregnant or breast-feeding (pregnancy test with a positive result before study entry).\nunwilling or unable to follow protocol requirements.\nprevious progression on a platinum containing therapy.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No"
+            },
+            "disease_characteristics": {
+                "progress_after_previous_treatment": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_positive_hiv_status": "No",
+                "peripheral_neuropathy_grade_upper_bound": 1,
+                "no_pregnancy_nursing": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "active uncontrolled bleeding or bleeding diathesis (e.g., active peptic ulcer disease). any active infection requiring parenteral or oral antibiotic treatment. active heart disease including myocardial infarction or congestive heart failure within the previous 6 months, symptomatic coronary artery disease, or symptomatic arrhythmias currently requiring medication. autoimmune disease. impending or symptomatic spinal cord compression or carcinomatous meningitis. known hypersensitivity to cisplatin or liposomes. requiring immediate palliative treatment of any kind including surgery and/or radiotherapy(except for palliative radiotherapy on non-target lesions)."
+            },
+            "unused_text": {
+                "inclusion_criteria": "please refer to inclusion criteria no. 10g. (patients stable 8 weeks after completion of treatment for cns metastasis are eligible)."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nabnormal liver function classified as total bilirubin >34 \u0152\u00bamol/l or alat > 3 times the upper limit of normal range (uln). in case of metastases in the liver, the alat limit for exclusion is set to 5xuln. re-test results of blood samples taken again up to 2 days before day-1 must keep meeting eligibility criteria.\nabnormal kidney function defined by serum creatinine >120 \u0152\u00bamol/l. re-test results of blood samples taken again up to 2 days before day-1 must keep meeting eligibility criteria.\nabnormal coagulation capacity defined by the relative arbitrary concentration of coagulation factors 2,7,10 inr >1.3. re-test results of blood samples taken again up to 2 days before day-1 must keep meeting eligibility criteria.\nbrain metastases in symptomatic patients requiring \u201a\u00e2\u20224 mg dexamethasone/day. however, patients with treated brain metastases by surgery or radiation who are stable and symptom-free (<4 mg dexamethasone/day) for a minimum period of 4 weeks prior to study treatment are eligible.\nsynchronous cancer except for non-melanoma skin cancer and early stage of cervical cancer.\nabnormal haematology status defined by hb < 9.0 g/dl, platelet count < 75,000/mm^3 and leukocytes < 3x10^9/l. re-test results of blood samples taken again up to 2 days before day-1 must keep meeting eligibility criteria.\nclinically significant abnormal ecg.\nkarnofsky performance status score < 50%.\npregnant or breast feeding women.\nwomen of fertile age who do not want to be tested for possible pregnancy.\nfertile female who do not want to use safe protection against pregnancy, starting one month before start of the trial treatment and lasting at least six weeks after.\nuncontrolled bacterial, viral, fungal or parasite infection.\nunder systemic treatment with corticosteroids or other immunosuppressive drugs during the last 21 days before start of the trial treatment. systemic treatment with <4 mg dexamethasone/day is allowed\nparticipating in another clinical trial with pharmaceuticals during the last six weeks before start of this trial treatment.\nnot able to understand written or oral information.\ndo not want or is not able to give written consent to participate in the study.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "signed_consent": "Yes",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "Yes",
+                "sufficient_liver_function": "Yes",
+                "bilirubin_upper_bound_uln": 5,
+                "creatinine_upper_bound_uln": 1.3,
+                "lvef_lower_bound_percent": 50,
+                "hgb_level_lower_bound_10_9_l": 9,
+                "plt_level_lower_bound_10_9_l": 75,
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "karnofsky_performance_lower_bound": 50,
+                "no_positive_hiv_status": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "under systemic treatment with corticosteroids or other immunosuppressive drugs during the last 21 days before start of the trial treatment. systemic treatment with <4 mg dexamethasone/day is allowed"
+            },
+            "unused_text": {
+                "inclusion_criteria": "abnormal coagulation capacity defined by the relative arbitrary concentration of coagulation factors 2,7,10 inr >1.3. re-test results of blood samples taken again up to 2 days before day-1 must keep meeting eligibility criteria. synchronous cancer except for non-melanoma skin cancer and early stage of cervical cancer. clinically significant abnormal ecg. uncontrolled bacterial, viral, fungal or parasite infection. participating in another clinical trial with pharmaceuticals during the last six weeks before start of this trial treatment. not able to understand written or oral information. do not want or is not able to give written consent to participate in the study."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nactive infection requiring systemic antibiotics.\nactive autoimmune disease as defined by the autoimmune disease assessment tool.\nprevious treatment with mouse monoclonal antibodies\nat least 28 days since prior chemotherapy or monoclonal antibody therapy (trastuzumab or bevacizumab). patients who have been on hormonal therapy can continue on therapy at the discretion of the investigator. bisphosphonate therapy is acceptable during study participation.\ndiagnosis of a solid tumor malignancy (excluding non-melanoma skin cancer) within 3 years of enrollment.\nneed for chronic maintenance oral steroids.\nactive brain metastatic disease. treated brain metastases with surgery, gamma-knife radiosurgery or radiation and stable for at least 4 weeks and off steroids are eligible.\nno metastatic site amenable to sbrt\npregnant or lactating women, as treatment involves risks to the embryo or fetus.\nother medical or psychiatric conditions that in the opinion of the principal investigator would preclude safe participation in protocol.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {},
+            "disease_characteristics": {},
+            "health_and_organ_function": {
+                "sufficient_renal_function": "Yes",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "active infection requiring systemic antibiotics. active autoimmune disease as defined by the autoimmune disease assessment tool. previous treatment with mouse monoclonal antibodies. need for chronic maintenance oral steroids. active brain metastatic disease. treated brain metastases with surgery, gamma-knife radiosurgery or radiation and stable for at least 4 weeks and off steroids are eligible. diagnosis of a solid tumor malignancy (excluding non-melanoma skin cancer) within 3 years of enrollment."
+            },
+            "unused_text": {
+                "inclusion_criteria": "at least 28 days since prior chemotherapy or monoclonal antibody therapy (trastuzumab or bevacizumab). patients who have been on hormonal therapy can continue on therapy at the discretion of the investigator. bisphosphonate therapy is acceptable during study participation. no metastatic site amenable to sbrt. pregnant or lactating women, as treatment involves risks to the embryo or fetus. other medical or psychiatric conditions that in the opinion of the principal investigator would preclude safe participation in protocol."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\na subject will not be eligible for inclusion in this study if any of the following criteria apply:\n\nmale subjects\nconcurrent chemotherapy or any other anti tumor therapy for breast cancer. prior immunotherapy & monoclonal antibody therapy are acceptable.\nsubjects who received prior cytotoxic chemotherapy after incomplete resection of locoregional recurrent disease\nhistory of, or known current evidence of brain metastasis, including leptomeningeal involvement.\nsubjects with bone as the only site of metastatic disease\nsubjects with regional lymph node as the only site of metastatic disease\nserious intercurrent medical or psychiatric illness, including serious active infection\nhistory of class ii-iv congestive heart failure or myocardial infarction within 6 months of randomization\nhistory of other primary malignancy in the last 5 years prior to randomization. subjects with prior breast cancer history are eligible, however, the most recently obtained biopsy must demonstrate triple negative disease (source documented). subjects with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible.\nsubjects with a history of interstitial lung disease, history of slowly progressive dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis or multiple uncontrolled or unstable allergies which, in the opinion of the investigator, may lead to serious complications\nperipheral neuropathy grade \u201a\u00e2\u2022 2 by national cancer institute common terminology criteria for adverse events (nci ctcae) v4.0\nsubjects who have received an investigational product within the previous 4 weeks prior to randomization\nsubject is currently enrolled, or will enroll in a different clinical study in which investigational therapeutic procedures are performed or investigational therapies are administered while participating in this study\npregnant or nursing women\nsubjects with prior hypersensitivity to nab-paclitaxel, gemcitabine, carboplatin or any other platin, or nucleoside analogue agents\nany significant medical condition, laboratory abnormality, or psychiatric illness that would prevent the subject from participating in the study\nany condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if she were to participate in the study\nany condition that confounds the ability to interpret data from the study\nhistory of seropositive human immunodeficiency virus (hiv)\nsubjects who are receiving immunosuppressive or myelosuppressive medications that would, in the opinion of the investigator, increase the risk of serious neutropenic complications",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "disease_characteristics": {
+                "confirmed_metastases_breast_cancer": "No"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "Yes"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of, or known current evidence of brain metastasis, including leptomeningeal involvement. history of class ii-iv congestive heart failure or myocardial infarction within 6 months of randomization. history of other primary malignancy in the last 5 years prior to randomization. subjects with prior breast cancer history are eligible, however, the most recently obtained biopsy must demonstrate triple negative disease (source documented). subjects with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible. subjects with a history of interstitial lung disease, history of slowly progressive dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis or multiple uncontrolled or unstable allergies which, in the opinion of the investigator, may lead to serious complications. subjects with prior hypersensitivity to nab-paclitaxel, gemcitabine, carboplatin or any other platin, or nucleoside analogue agents. history of seropositive human immunodeficiency virus (hiv). subjects who are receiving immunosuppressive or myelosuppressive medications that would, in the opinion of the investigator, increase the risk of serious neutropenic complications."
+            },
+            "unused_text": {
+                "inclusion_criteria": "male subjects. concurrent chemotherapy or any other anti tumor therapy for breast cancer. prior immunotherapy & monoclonal antibody therapy are acceptable. subjects who received prior cytotoxic chemotherapy after incomplete resection of locoregional recurrent disease. subjects with bone as the only site of metastatic disease. subjects with regional lymph node as the only site of metastatic disease. serious intercurrent medical or psychiatric illness, including serious active infection. peripheral neuropathy grade \u201a\u00e2\u2022 2 by national cancer institute common terminology criteria for adverse events (nci ctcae) v4.0. subjects who have received an investigational product within the previous 4 weeks prior to randomization. subject is currently enrolled, or will enroll in a different clinical study in which investigational therapeutic procedures are performed or investigational therapies are administered while participating in this study. pregnant or nursing women. any significant medical condition, laboratory abnormality, or psychiatric illness that would prevent the subject from participating in the study. any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if she were to participate in the study. any condition that confounds the ability to interpret data from the study."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\na subject will not be eligible for inclusion in this study if any of the following criteria apply:\n\nmale subjects\nconcurrent chemotherapy or any other anti tumor therapy for breast cancer. prior immunotherapy & monoclonal antibody therapy are acceptable.\nsubjects who received prior cytotoxic chemotherapy after incomplete resection of locoregional recurrent disease\nhistory of, or known current evidence of brain metastasis, including leptomeningeal involvement.\nsubjects with bone as the only site of metastatic disease\nsubjects with regional lymph node as the only site of metastatic disease\nserious intercurrent medical or psychiatric illness, including serious active infection\nhistory of class ii-iv congestive heart failure or myocardial infarction within 6 months of randomization\nhistory of other primary malignancy in the last 5 years prior to randomization. subjects with prior breast cancer history are eligible, however, the most recently obtained biopsy must demonstrate triple negative disease (source documented). subjects with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible.\nsubjects with a history of interstitial lung disease, history of slowly progressive dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis or multiple uncontrolled or unstable allergies which, in the opinion of the investigator, may lead to serious complications\nperipheral neuropathy grade \u201a\u00e2\u2022 2 by national cancer institute common terminology criteria for adverse events (nci ctcae) v4.0\nsubjects who have received an investigational product within the previous 4 weeks prior to randomization\nsubject is currently enrolled, or will enroll in a different clinical study in which investigational therapeutic procedures are performed or investigational therapies are administered while participating in this study\npregnant or nursing women\nsubjects with prior hypersensitivity to nab-paclitaxel, gemcitabine, carboplatin or any other platin, or nucleoside analogue agents\nany significant medical condition, laboratory abnormality, or psychiatric illness that would prevent the subject from participating in the study\nany condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if she were to participate in the study\nany condition that confounds the ability to interpret data from the study\nhistory of seropositive human immunodeficiency virus (hiv)\nsubjects who are receiving immunosuppressive or myelosuppressive medications that would, in the opinion of the investigator, increase the risk of serious neutropenic complications",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "disease_characteristics": {
+                "confirmed_metastases_breast_cancer": "No"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "Yes"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of class ii-iv congestive heart failure or myocardial infarction within 6 months of randomization\nhistory of other primary malignancy in the last 5 years prior to randomization\nsubjects with prior breast cancer history are eligible, however, the most recently obtained biopsy must demonstrate triple negative disease (source documented)\nsubjects with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible\nsubjects with a history of interstitial lung disease, history of slowly progressive dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis or multiple uncontrolled or unstable allergies which, in the opinion of the investigator, may lead to serious complications\nsubjects with prior hypersensitivity to nab-paclitaxel, gemcitabine, carboplatin or any other platin, or nucleoside analogue agents\nhistory of seropositive human immunodeficiency virus (hiv)\nsubjects who are receiving immunosuppressive or myelosuppressive medications that would, in the opinion of the investigator, increase the risk of serious neutropenic complications"
+            },
+            "unused_text": {
+                "inclusion_criteria": "male subjects\nconcurrent chemotherapy or any other anti tumor therapy for breast cancer. prior immunotherapy & monoclonal antibody therapy are acceptable.\nsubjects who received prior cytotoxic chemotherapy after incomplete resection of locoregional recurrent disease\nsubjects with bone as the only site of metastatic disease\nsubjects with regional lymph node as the only site of metastatic disease\nserious intercurrent medical or psychiatric illness, including serious active infection\nperipheral neuropathy grade \u201a\u00e2\u2022 2 by national cancer institute common terminology criteria for adverse events (nci ctcae) v4.0\nsubjects who have received an investigational product within the previous 4 weeks prior to randomization\nsubject is currently enrolled, or will enroll in a different clinical study in which investigational therapeutic procedures are performed or investigational therapies are administered while participating in this study\nany significant medical condition, laboratory abnormality, or psychiatric illness that would prevent the subject from participating in the study\nany condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if she were to participate in the study\nany condition that confounds the ability to interpret data from the study"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\ninadequate renal function with a calculated creatinine clearance less than 51 ml/min.\nhistory of ventricular fibrillation, sinus node or av nodal disease, wolff parkinson white syndrome, hemodynamically significant or life threatening cardiac arrhythmia.\nuncontrolled cardiac disease, congestive heart failure, angina or hypertension.\nmyocardial infarction or unstable angina within 2 months of treatment.\nknown human immunodeficiency virus (hiv) infection or chronic active hepatitis b or c (patients are not required to be tested for the presence of such viruses prior to therapy on this protocol).\nactive clinically serious infection > ctcae (version 4.03) grade 2.\nthrombotic or embolic events such as a cerebrovascular accident including transient ischemic attacks within the past 6 months.\npulmonary hemorrhage/bleeding event \u201a\u00e2\u2022 ctcae grade 2 within 4 weeks of first dose of study drug.\nany other hemorrhage/bleeding event \u201a\u00e2\u2022 ctcae grade 3 within 4 weeks of first dose of study drug.\nserious non-healing wound, ulcer, or bone fracture.\nmajor surgery or significant traumatic injury within 2 weeks of first study drug.\ninability to complete informed consent process and adhere to the protocol treatment plan and follow-up requirements.\nconcurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements.\ncurrently on anti-coagulation therapy with coumadin, and cannot be switched other forms of anti-coagulation.\npatients have symptomatic untreated brain metastasis or leptomeningeal metastases or treated but still symptomatic requiring the use of steroid within the past two weeks.\npatients receiving any other investigational agents. pregnant or lactating females.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "follow_up_agreement": "No",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "creatinine_clearance_lower_bound": 51,
+                "no_active_brain_metastases": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "no_positive_hiv_status": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of ventricular fibrillation, sinus node or av nodal disease, wolff parkinson white syndrome, hemodynamically significant or life threatening cardiac arrhythmia. uncontrolled cardiac disease, congestive heart failure, angina or hypertension. myocardial infarction or unstable angina within 2 months of treatment. thrombotic or embolic events such as a cerebrovascular accident including transient ischemic attacks within the past 6 months. pulmonary hemorrhage/bleeding event \u201a\u00e2\u2022 ctcae grade 2 within 4 weeks of first dose of study drug. any other hemorrhage/bleeding event \u201a\u00e2\u2022 ctcae grade 3 within 4 weeks of first dose of study drug. serious non-healing wound, ulcer, or bone fracture. major surgery or significant traumatic injury within 2 weeks of first study drug. currently on anti-coagulation therapy with coumadin, and cannot be switched other forms of anti-coagulation. patients have symptomatic untreated brain metastasis or leptomeningeal metastases or treated but still symptomatic requiring the use of steroid within the past two weeks."
+            },
+            "unused_text": {
+                "inclusion_criteria": "known human immunodeficiency virus (hiv) infection or chronic active hepatitis b or c (patients are not required to be tested for the presence of such viruses prior to therapy on this protocol). active clinically serious infection > ctcae (version 4.03) grade 2. concurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements. patients receiving any other investigational agents. pregnant or lactating females."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nmale patients,\nunknown hormonal receptors\npositive her-2 (score 3 in ihc or positive fish)\npregnant or breastfeeding patient, or in age of pregnancy or predicting to be pregnant in the 6 months after the end of treatment,\npatient not using contraceptive treatment during the treatment or after the 6 months after the end of treatment,\npatient is a ward,\npatient suffering from a non compatible disease with the enrollment in the study,\ncardiac, renal, medullar, respiratory or hepatic insufficiency, clinically significant cardiovascular disease (including myocardiac infarct, unstable angina, symptomatic congestive heart failure, uncontrolled cardiac arrhythmia) < 1 year before the study enrollment or randomisation,\npatient with pulmonary lymphangitis or symptomatic pleural effusion (grade\u201a\u00e2\u20222), meningeal known carcinoma or symptoms of cerebromeningeal invasion, brain metastases unless treatment and stability for at least 4 weeks (no steroids or anti-convulsive).\nuncontrolled diabetes,\npsychiatric or neurological significant abnormality,\nperipheric neuropathy > grade 2,\nantecedent of hypersensibility to one of study treatment or one of used excipients,\nurinary tract infection or acute hemorrhagic cystitis in progress\nconcomitant treatment with a medicine containing phenytoin or medication received in the context of a trial, or participation in another therapeutic clinical trial within <30 days prior treatment with chemotherapy.\ngeographically unstable patient in the next 6 months or remaining distance to the treatment center making it difficult to follow in the study,\nknown history of abuse of narcotic or other drug or alcohol\nhistory of surgery within 28 days before the start of treatment,\npatient unwilling or unable to comply with the requirements of the study.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "follow_up_agreement": "No",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "No"
+            },
+            "disease_characteristics": {
+                "her2_status": "Positive"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_bone_marrow": "No",
+                "sufficient_liver_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "male patients, unknown hormonal receptors, patient suffering from a non compatible disease with the enrollment in the study, clinically significant cardiovascular disease (including myocardiac infarct, unstable angina, symptomatic congestive heart failure, uncontrolled cardiac arrhythmia) < 1 year before the study enrollment or randomisation, uncontrolled diabetes, psychiatric or neurological significant abnormality, antecedent of hypersensibility to one of study treatment or one of used excipients, urinary tract infection or acute hemorrhagic cystitis in progress, concomitant treatment with a medicine containing phenytoin or medication received in the context of a trial, or participation in another therapeutic clinical trial within <30 days prior treatment with chemotherapy, known history of abuse of narcotic or other drug or alcohol, history of surgery within 28 days before the start of treatment."
+            },
+            "unused_text": {
+                "inclusion_criteria": "patient is a ward, patient with pulmonary lymphangitis or symptomatic pleural effusion (grade\u201a\u00e2\u20222), meningeal known carcinoma or symptoms of cerebromeningeal invasion, brain metastases unless treatment and stability for at least 4 weeks (no steroids or anti-convulsive), geographically unstable patient in the next 6 months or remaining distance to the treatment center making it difficult to follow in the study, patient unwilling or unable to comply with the requirements of the study."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nmale patients,\nunknown hormonal receptors\npositive her-2 (score 3 in ihc or positive fish)\npregnant or breastfeeding patient, or in age of pregnancy or predicting to be pregnant in the 6 months after the end of treatment,\npatient not using contraceptive treatment during the treatment or after the 6 months after the end of treatment,\npatient is a ward,\npatient suffering from a non compatible disease with the enrollment in the study,\ncardiac, renal, medullar, respiratory or hepatic insufficiency, clinically significant cardiovascular disease (including myocardiac infarct, unstable angina, symptomatic congestive heart failure, uncontrolled cardiac arrhythmia) < 1 year before the study enrollment or randomisation,\npatient with pulmonary lymphangitis or symptomatic pleural effusion (grade\u201a\u00e2\u20222), meningeal known carcinoma or symptoms of cerebromeningeal invasion, brain metastases unless treatment and stability for at least 4 weeks (no steroids or anti-convulsive).\nuncontrolled diabetes,\npsychiatric or neurological significant abnormality,\nperipheric neuropathy > grade 2,\nantecedent of hypersensibility to one of study treatment or one of used excipients,\nurinary tract infection or acute hemorrhagic cystitis in progress\nconcomitant treatment with a medicine containing phenytoin or medication received in the context of a trial, or participation in another therapeutic clinical trial within <30 days prior treatment with chemotherapy.\ngeographically unstable patient in the next 6 months or remaining distance to the treatment center making it difficult to follow in the study,\nknown history of abuse of narcotic or other drug or alcohol\nhistory of surgery within 28 days before the start of treatment,\npatient unwilling or unable to comply with the requirements of the study.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "signed_consent": "No",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "disease_characteristics": {
+                "her2_status": "Positive"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_bone_marrow": "No",
+                "sufficient_liver_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "non compatible disease with the enrollment in the study, clinically significant cardiovascular disease (including myocardiac infarct, unstable angina, symptomatic congestive heart failure, uncontrolled cardiac arrhythmia) < 1 year before the study enrollment or randomisation, uncontrolled diabetes, psychiatric or neurological significant abnormality, antecedent of hypersensibility to one of study treatment or one of used excipients, urinary tract infection or acute hemorrhagic cystitis in progress, concomitant treatment with a medicine containing phenytoin or medication received in the context of a trial, or participation in another therapeutic clinical trial within <30 days prior treatment with chemotherapy, known history of abuse of narcotic or other drug or alcohol, history of surgery within 28 days before the start of treatment"
+            },
+            "unused_text": {
+                "inclusion_criteria": "male patients, unknown hormonal receptors, pregnant or breastfeeding patient, or in age of pregnancy or predicting to be pregnant in the 6 months after the end of treatment, patient not using contraceptive treatment during the treatment or after the 6 months after the end of treatment, patient is a ward, patient with pulmonary lymphangitis or symptomatic pleural effusion (grade\u201a\u00e2\u20222), meningeal known carcinoma or symptoms of cerebromeningeal invasion, brain metastases unless treatment and stability for at least 4 weeks (no steroids or anti-convulsive), geographically unstable patient in the next 6 months or remaining distance to the treatment center making it difficult to follow in the study, patient unwilling or unable to comply with the requirements of the study."
+            }
+        }
+    },
+    {
+        "Trial Text": " - participants who exhibit any of the following conditions at screening will not be eligible for admission into the study:\n\nparticipants receiving any other study agents.\nparticipants receiving any other cancer directed concurrent therapy; such as concurrent chemotherapy, radiotherapy, or hormonal therapy. concurrent treatment with biphosphonates/denosumab is allowed but should be started before starting treatment on study.\nactive brain metastases: participants with previously diagnosed brain metastases are eligible if they have completed treatment at least one month prior to enrollment, are neurologically stable, and have recovery from effects of radiotherapy or surgery.\nhistory of allergic reaction attributed to compounds of similar chemical or biologic composition to eribulin mesylate, trastuzumab or pertuzumab, which cannot be managed by premedication.\nparticipants who previously received eribulin mesylate are not eligible for enrollment on the phase ii portion.\nprior chemotherapy, targeted therapy, hormonal therapy, or radiation therapy (including any investigational agents) within 2 weeks prior entering the study or those who have not recovered adequately from adverse events (aes) due to agents administered more than 4 weeks earlier (excluding alopecia and hot flashes). a washout period is not necessary for trastuzumab (or pertuzumab for run-in patients when applicable).\na baseline corrected qt interval of > 470 ms.\npre-existing neuropathy \u201a\u00e2\u2022 grade 2 (nci common toxicity criteria for adverse events (ctcae) version 4.0)\nuncontrolled intercurrent illness including, not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or other significant diseases or disorders that, in the investigator's opinion, would exclude the subject from participating in the study\nsymptomatic intrinsic lung disease or extensive tumor involvement of the lungs, resulting in grade 2 or higher dyspnea at rest.\ncurrently pregnant or breast-feeding. all females must have a negative serum or urine pregnancy test (minimum sensitivity 25 iu/l or equivalent units of \u0152\u2264-human chorionic gonadotropin (\u0152\u2264-hcg) at the baseline visit [within 7 days of the first dose of study treatment]). females of childbearing potential must agree to use a medically acceptable method of contraception (e.g., abstinence, an intrauterine device, a double-barrier method such as condom + spermicidal or condom + diaphragm with spermicidal, a contraceptive implant, an oral contraceptive or have a vasectomized partner with confirmed azoospermia) throughout the entire study period and for 30 days after discontinuation of study treatment. the only subjects who will be exempt from this requirement are postmenopausal women (defined as women who have been amenorrheic for at least 12 consecutive months, in the appropriate age group, without other known or suspected primary cause) or subjects who have been sterilized surgically or who are otherwise proven sterile (i.e., bilateral tubal ligation with surgery at least 1 month before start of study treatment, hysterectomy, or bilateral oophorectomy with surgery at least 1 month before start of study treatment). current, ongoing protocols containing pertuzumab have included continuous pregnancy monitoring during the trial and for six months after the last dose of study drug is administered. because of the long half-life of pertuzumab, women should be warned not to become pregnant for at least six months after completion of treatment.\nindividuals with a history of different malignancy are ineligible except for the following circumstances. individuals with a history of other malignancies are eligible if they have been disease-free for at least 5 years and are deemed by the investigator to be at low risk for recurrence of that malignancy. individuals with the following cancers are eligible if diagnosed and treated within the past 5 years: cervical cancer in situ, and non-melanoma cancer of the skin.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_lung_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "Yes"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of allergic reaction attributed to compounds of similar chemical or biologic composition to eribulin mesylate, trastuzumab or pertuzumab, which cannot be managed by premedication. participants who previously received eribulin mesylate are not eligible for enrollment on the phase ii portion. prior chemotherapy, targeted therapy, hormonal therapy, or radiation therapy (including any investigational agents) within 2 weeks prior entering the study or those who have not recovered adequately from adverse events (aes) due to agents administered more than 4 weeks earlier (excluding alopecia and hot flashes). individuals with a history of different malignancy are ineligible except for the following circumstances. individuals with a history of other malignancies are eligible if they have been disease-free for at least 5 years and are deemed by the investigator to be at low risk for recurrence of that malignancy. individuals with the following cancers are eligible if diagnosed and treated within the past 5 years: cervical cancer in situ, and non-melanoma cancer of the skin."
+            },
+            "unused_text": {
+                "inclusion_criteria": "participants receiving any other study agents. participants receiving any other cancer directed concurrent therapy; such as concurrent chemotherapy, radiotherapy, or hormonal therapy. concurrent treatment with biphosphonates/denosumab is allowed but should be started before starting treatment on study. a baseline corrected qt interval of > 470 ms. uncontrolled intercurrent illness including, not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or other significant diseases or disorders that, in the investigator's opinion, would exclude the subject from participating in the study symptomatic intrinsic lung disease or extensive tumor involvement of the lungs, resulting in grade 2 or higher dyspnea at rest. currently pregnant or breast-feeding. all females must have a negative serum or urine pregnancy test (minimum sensitivity 25 iu/l or equivalent units of \u0152\u2264-human chorionic gonadotropin (\u0152\u2264-hcg) at the baseline visit [within 7 days of the first dose of study treatment]). females of childbearing potential must agree to use a medically acceptable method of contraception (e.g., abstinence, an intrauterine device, a double-barrier method such as condom + spermicidal or condom + diaphragm with spermicidal, a contraceptive implant, an oral contraceptive or have a vasectomized partner with confirmed azoospermia) throughout the entire study period and for 30 days after discontinuation of study treatment. the only subjects who will be exempt from this requirement are postmenopausal women (defined as women who have been amenorrheic for at least 12 consecutive months, in the appropriate age group, without other known or suspected primary cause) or subjects who have been sterilized surgically or who are otherwise proven sterile (i.e., bilateral tubal ligation with surgery at least 1 month before start of study treatment, hysterectomy, or bilateral oophorectomy with surgery at least 1 month before start of study treatment). current, ongoing protocols containing pertuzumab have included continuous pregnancy monitoring during the trial and for six months after the last dose of study drug is administered. because of the long half-life of pertuzumab, women should be warned not to become pregnant for at least six months after completion of treatment."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nhave a tumor biopsy intended for use in the current study that was performed more than 2 months prior to analysis\nhave metastatic lesion that is not accessible to biopsy\nhad > 6 months treatment under the last line of therapy\nhave interventional cancer therapy conducted after the biopsy was collected prior to analysis\nhave symptomatic cns metastasis. patients with a history of cns metastases who have been treated with whole brain irradiation must be stable without symptoms for 4 weeks after completion of treatment, with image documentation required, and must be either off steroids or on a stable dose of steroids for \u201a\u00e2\u2022 2 weeks prior to enrollment\nhave any previous history of another malignancy (other than cured basal cell carcinoma of the skin or cured in-situ carcinoma of the cervix) within 5 years of study entry\nhave uncontrolled concurrent illness including, but not limited to, ongoing or active serious infection, symptomatic congestive heart failure, unstable angina pectoris, unstable cardiac arrhythmias, psychiatric illness, or situations that would limit compliance with the study requirements or the ability to willingly give written informed consent\nhave known hiv, hbv, hcv infection\nare pregnant or breast-feeding patients or any patient with childbearing potential not using adequate contraception.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "signed_consent": "Yes",
+                "protocol_compliance": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "no_positive_hiv_status": "No",
+                "accessible_measurable_lesion": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "any previous history of another malignancy (other than cured basal cell carcinoma of the skin or cured in-situ carcinoma of the cervix) within 5 years of study entry"
+            },
+            "unused_text": {
+                "inclusion_criteria": "have a tumor biopsy intended for use in the current study that was performed more than 2 months prior to analysis\nhad > 6 months treatment under the last line of therapy\nhave interventional cancer therapy conducted after the biopsy was collected prior to analysis"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nwomen who are pregnant or breast feeding\nhistory of brain and/or leptomeningeal metastases\npast or current history of malignant neoplasm other than breast carcinoma, except for curatively treated non melanoma skin cancer, in situ carcinoma of the cervix or other cancer curatively treated and with no evidence of disease for at least 5 years\npre-existing neuropathy grade 1 according to the ncic-ctc 3.0\npsychiatric disorders or other conditions which would prevent pt. compliance\nother serious illness or medical condition:\ncongestive heart failure, or unstable angina pectoris, previous history of myocardial infarction within 6 month prior to study entry, uncontrolled hypertension as determined by the investigator or high risk uncontrolled, arrhythmia.\nhistory of significant neurological or psychiatric disorders including psychotic disorders, dementia of seizures that would prohibit the understanding and giving of informed consent.\nactive uncontrolled infection.\nunstable peptic ulcer, unstable diabetes mellitus or other contraindication for the use of corticosteroids.\ninability to take and/or absorb oral medicine\nprior treatment with capecitabine and/or cisplatin\nconcurrent treatment with other experimental drugs, or participation in another clinical trial with any investigational drug within 30 days prior to study entry",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "signed_consent": "Yes",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "peripheral_neuropathy_grade_upper_bound": 1,
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of brain and/or leptomeningeal metastases, past or current history of malignant neoplasm other than breast carcinoma, except for curatively treated non melanoma skin cancer, in situ carcinoma of the cervix or other cancer curatively treated and with no evidence of disease for at least 5 years, prior treatment with capecitabine and/or cisplatin, concurrent treatment with other experimental drugs, or participation in another clinical trial with any investigational drug within 30 days prior to study entry"
+            },
+            "unused_text": {
+                "inclusion_criteria": "women who are pregnant or breast feeding, pre-existing neuropathy grade 1 according to the ncic-ctc 3.0, psychiatric disorders or other conditions which would prevent pt. compliance, other serious illness or medical condition: congestive heart failure, or unstable angina pectoris, previous history of myocardial infarction within 6 month prior to study entry, uncontrolled hypertension as determined by the investigator or high risk uncontrolled, arrhythmia, history of significant neurological or psychiatric disorders including psychotic disorders, dementia of seizures that would prohibit the understanding and giving of informed consent, active uncontrolled infection, unstable peptic ulcer, unstable diabetes mellitus or other contraindication for the use of corticosteroids, inability to take and/or absorb oral medicine"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nprevious treatment with cabazitaxel.\ncns disease requiring immediate neurosurgical intervention (e.g., resection, shunt placement, etc.).\nleptomeningeal metastases as the only site of cns metastases. patients with parenchymal brain metastases and leptomeningeal metastases are eligible provided they meet all other eligibility criteria.\nperipheral neuropathy \u201a\u00e2\u2022grade 2 (ctcae v4.0).\nconcurrent treatment with radiation therapy, hormonal therapy, biologic therapy or chemotherapy is not allowed. low dose corticosteroids (\u201a\u00e2\u00a730 mg/day prednisone or its equivalent) are allowed.\nconcurrent treatment with drugs known to be moderate and strong inhibitors or inducers of isoenzyme cyp3a that cannot be discontinued or switched to different medication prior to starting study drug.\nconcurrent use of st. john's wort and grapefruit/grapefruit juice \u201a\u00e2\u00a77 days prior to starting study drug is not allowed.\npresence of active gastrointestinal (gi) disease or other condition that in the opinion of the investigator will interfere significantly with the absorption, distribution, metabolism, or excretion of oral therapy (e.g. ulcerative disease, uncontrolled nausea, or vomiting).\nknown diagnosis of human immunodeficiency virus (hiv), hepatitis b (hbv) or hepatitis c (hcv).\npresence of other active cancers, or history of treatment for invasive cancer \u201a\u00e2\u20223 years. patients with stage i cancer who have received definitive local treatment with curative intent at least 3 years previously, and are considered unlikely to recur are eligible. all patients with previously treated in situ carcinoma (i.e. non-invasive) are eligible, as are patients with history of non-melanoma skin cancer.\n\nany severe and/or uncontrolled medical conditions or other conditions that could affect participation in the study such as:\n\nsymptomatic congestive heart failure (chf) of new york heart association class iii or iv.\nqtc > 480 ms on screening ecg (using the fredericia formula)\npoorly controlled or clinically significant atherosclerotic vascular disease including cerebrovascular accident (cva), transient ischemic attack (tia), angioplasty, cardiac or vascular stenting in the past 6 months\nactive (acute or chronic) or uncontrolled severe infections.\nactive hepatic or biliary disease (except for patients with gilbert's syndrome, asymptomatic gallstones, liver metastases, or stable chronic liver disease per investigator assessment).\nknown hypersensitivity to cabazitaxel or other drugs formulated with polysorbate 80.\npsychological, familial, sociological, or geographical conditions that do not permit compliance with the protocol.\ninability or unwillingness to comply with study and/or follow-up procedures outlined in the protocol.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "follow_up_agreement": "No",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "health_and_organ_function": {
+                "sufficient_heart_cardiovascular_function": "No",
+                "sufficient_liver_function": "No",
+                "no_positive_hiv_status": "No",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "previous treatment with cabazitaxel. concurrent treatment with radiation therapy, hormonal therapy, biologic therapy or chemotherapy is not allowed. concurrent treatment with drugs known to be moderate and strong inhibitors or inducers of isoenzyme cyp3a that cannot be discontinued or switched to different medication prior to starting study drug. concurrent use of st. john's wort and grapefruit/grapefruit juice \u201a\u00e2\u00a77 days prior to starting study drug is not allowed. known diagnosis of human immunodeficiency virus (hiv), hepatitis b (hbv) or hepatitis c (hcv). presence of other active cancers, or history of treatment for invasive cancer \u201a\u00e2\u20223 years. patients with stage i cancer who have received definitive local treatment with curative intent at least 3 years previously, and are considered unlikely to recur are eligible. all patients with previously treated in situ carcinoma (i.e. non-invasive) are eligible, as are patients with history of non-melanoma skin cancer."
+            },
+            "unused_text": {
+                "inclusion_criteria": "cns disease requiring immediate neurosurgical intervention (e.g., resection, shunt placement, etc.). leptomeningeal metastases as the only site of cns metastases. patients with parenchymal brain metastases and leptomeningeal metastases are eligible provided they meet all other eligibility criteria. presence of active gastrointestinal (gi) disease or other condition that in the opinion of the investigator will interfere significantly with the absorption, distribution, metabolism, or excretion of oral therapy (e.g. ulcerative disease, uncontrolled nausea, or vomiting). any severe and/or uncontrolled medical conditions or other conditions that could affect participation in the study such as: symptomatic congestive heart failure (chf) of new york heart association class iii or iv. qtc > 480 ms on screening ecg (using the fredericia formula) poorly controlled or clinically significant atherosclerotic vascular disease including cerebrovascular accident (cva), transient ischemic attack (tia), angioplasty, cardiac or vascular stenting in the past 6 months active (acute or chronic) or uncontrolled severe infections. active hepatic or biliary disease (except for patients with gilbert's syndrome, asymptomatic gallstones, liver metastases, or stable chronic liver disease per investigator assessment). known hypersensitivity to cabazitaxel or other drugs formulated with polysorbate 80. psychological, familial, sociological, or geographical conditions that do not permit compliance with the protocol. inability or unwillingness to comply with study and/or follow-up procedures outlined in the protocol."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\npatients with human epidermal growth factor receptor type 2 (her2)-positive",
+        "Extracted Criteria": {
+            "disease_characteristics": {
+                "her2_status": "Positive"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nprevious chemotherapy for her2/neu negative, incurable, metastatic or unresectable locally advanced breast cancer.\nprior hormonal therapy for her2/neu negative, incurable, metastatic or unresectable locally advanced breast cancer that has not been discontinued 1 week before start of study treatment.\nprior adjuvant/neo-adjuvant chemotherapy within 6 months prior to first study treatment. however, if the prior adjuvant/neo-adjuvant chemotherapy was taxane based, patients are excluded if they received their last chemotherapy within12 months prior to first study treatment.\nprior radiotherapy covering more than 30% of marrow-bearing bone.\npatients that have received recent radiation therapy that are not recovered from any significant (grade \u201a\u00e2\u2022 3) acute toxicity prior to study treatment.\nprior therapy with bevacizumab, sorafenib, sunitinib, or other vegf pathway-targeted therapy.\nchronic daily treatment with aspirin\nchronic daily treatment with corticosteroids, with the exception of inhaled steroids.\ncurrent or recent treatment with another investigational drug or participation in another investigational study.\ninadequate bone marrow, liver, renal function\ninr > 1.5 or an aptt > 1.5 x uln within 7 days prior to first study treatment.\nknown cns disease, except for treated brain metastases.\npatients with concurrent active malignancy\npregnant or lactating\nwomen of childbearing potential not using effective, non-hormonal means of contraception\nmajor surgical procedure (including open biopsy) within 28 days prior to the first study treatment\ncore biopsy or other minor surgical procedure, within 7 days prior to day 1.\nsignificant vascular disease within 6 months prior to day 1.\nany previous venous thrombo-embolism > ctc grade 3.\nhistory of haemoptysis\nhistory or evidence of inherited bleeding diathesis or coagulopathy with the risk of bleeding.\nuncontrolled hypertension\nclinically significant (i.e. active) cardiovasculair disease\nlvef by muga or echo < 50%.\nhistory of abdominal fistula, grade 4 bowel obstruction or gi perforation, intra-abdominal abscess within 6 months of randomization.\nserious non-healing wound, peptic ulcer or bone fracture.\nknown hypersensitivity to any of the study drugs or excipients.\nhypersensitivity to chinese hamster ovary cell products or other recombinant human or humanized antibodies.\npsychiatric illness, physical examination or laboratory findings that may interfer with protocol",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "no_concurrent_participation_in_other_clinical_trials": "Yes"
+            },
+            "disease_characteristics": {
+                "her2_status": "Negative"
+            },
+            "health_and_organ_function": {
+                "sufficient_renal_function": "No",
+                "sufficient_bone_marrow": "No",
+                "sufficient_liver_function": "No",
+                "lvef_lower_bound_percent": 50,
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "Yes",
+                "no_positive_hiv_status": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "previous chemotherapy for her2/neu negative, incurable, metastatic or unresectable locally advanced breast cancer. prior hormonal therapy for her2/neu negative, incurable, metastatic or unresectable locally advanced breast cancer that has not been discontinued 1 week before start of study treatment. prior adjuvant/neo-adjuvant chemotherapy within 6 months prior to first study treatment. however, if the prior adjuvant/neo-adjuvant chemotherapy was taxane based, patients are excluded if they received their last chemotherapy within12 months prior to first study treatment. prior radiotherapy covering more than 30% of marrow-bearing bone. patients that have received recent radiation therapy that are not recovered from any significant (grade \u201a\u00e2\u2022 3) acute toxicity prior to study treatment. prior therapy with bevacizumab, sorafenib, sunitinib, or other vegf pathway-targeted therapy. chronic daily treatment with aspirin chronic daily treatment with corticosteroids, with the exception of inhaled steroids. current or recent treatment with another investigational drug or participation in another investigational study. inr > 1.5 or an aptt > 1.5 x uln within 7 days prior to first study treatment. known cns disease, except for treated brain metastases. patients with concurrent active malignancy pregnant or lactating women of childbearing potential not using effective, non-hormonal means of contraception major surgical procedure (including open biopsy) within 28 days prior to the first study treatment core biopsy or other minor surgical procedure, within 7 days prior to day 1. significant vascular disease within 6 months prior to day 1. any previous venous thrombo-embolism > ctc grade 3. history of haemoptysis history or evidence of inherited bleeding diathesis or coagulopathy with the risk of bleeding. uncontrolled hypertension clinically significant (i.e. active) cardiovasculair disease lvef by muga or echo < 50%. history of abdominal fistula, grade 4 bowel obstruction or gi perforation, intra-abdominal abscess within 6 months of randomization. serious non-healing wound, peptic ulcer or bone fracture. known hypersensitivity to any of the study drugs or excipients. hypersensitivity to chinese hamster ovary cell products or other recombinant human or humanized antibodies. psychiatric illness, physical examination or laboratory findings that may interfer with protocol"
+            },
+            "unused_text": {
+                "inclusion_criteria": "Exclusion Criteria"
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nclinical or radiographic evidence of moderate amount of ascites.\nhistory of cirrhosis with child-pugh class b or c.\npregnant or lactating females.\ninability to complete informed consent process and adhere to protocol treatment plan and follow-up requirements.\npatients receiving any other investigational agents.\npatients with bleeding diathesis (clinical bleeding, prothrombin time =/> 1.5 x upper institutional normal value, inr =/> 1.5, activated partial thromboplastin time aptt =/> 1.5 x upper institutional normal value), active gastric or duodenal ulcer.\nhistory of thrombophilia, recurrent dvts, diagnosis of phospholipid syndrome.\npast or current history of malignancy other than breast cancer with the exception of treated non-melanoma skin cancer or carcinoma in situ of the cervix, or other cancers cured by local therapy alone and a dfs \u201a\u00e2\u20225 years.\nconcurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements.\npatients with clinically significant cardiovascular disease: myocardial infarction or unstable angina within 6 months, new york heart association grade ii or greater congestive heart failure, serious cardiac arrhythmia requiring medication, unstable angina pectoris, clinically significant peripheral vascular disease\npatients have untreated brain metastasis requiring or leptomeningeal metastases.",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "follow_up_agreement": "No",
+                "signed_consent": "No",
+                "protocol_compliance": "No",
+                "no_concurrent_participation_in_other_clinical_trials": "No"
+            },
+            "health_and_organ_function": {
+                "sufficient_liver_function": "No",
+                "sufficient_heart_cardiovascular_function": "No",
+                "no_active_brain_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "no_positive_hiv_status": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "history of cirrhosis with child-pugh class b or c. history of thrombophilia, recurrent dvts, diagnosis of phospholipid syndrome. past or current history of malignancy other than breast cancer with the exception of treated non-melanoma skin cancer or carcinoma in situ of the cervix, or other cancers cured by local therapy alone and a dfs \u201a\u00e2\u20225 years."
+            },
+            "unused_text": {
+                "inclusion_criteria": "clinical or radiographic evidence of moderate amount of ascites. patients with bleeding diathesis (clinical bleeding, prothrombin time =/> 1.5 x upper institutional normal value, inr =/> 1.5, activated partial thromboplastin time aptt =/> 1.5 x upper institutional normal value), active gastric or duodenal ulcer. concurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements. patients with clinically significant cardiovascular disease: myocardial infarction or unstable angina within 6 months, new york heart association grade ii or greater congestive heart failure, serious cardiac arrhythmia requiring medication, unstable angina pectoris, clinically significant peripheral vascular disease patients have untreated brain metastasis requiring or leptomeningeal metastases."
+            }
+        }
+    },
+    {
+        "Trial Text": "\n\nknown active cns metastasis\npatients who received prior therapy with gemcitabine\npatients with only non-measurable lesions other than bone metastasis (e.g. pleural effusion, ascites).\npatients with more than 3 prior chemotherapy lines for treating metastatic breast cancer.\npatients who received prior therapy with mtor inhibitor or pi3k inhibitor\nknown hypersensitivity to mtor inhibitors, e.g. sirolimus (rapamycin).\nradiotherapy within four weeks prior to enrolment, except radiotherapy to the bone for analgesic purpose or for lytic lesions at risk of fracture. patients must have recovered from radiotherapy toxicities prior to enrolment.\npatients who have history of cancer other than in situ uterine cervix cancer or nonmelanotic skin cancer\nimpairment of gastrointestinal (gi) function or gi disease that may significantly alter the absorption of oral everolimus\nactive ulceration of upper gastrointestinal tract\nother concurrent severe and/or uncontrolled conditions (e.g. uncontrolled diabetes mellitus, active untreated or uncontrolled infection, chronic obstructive or chronic restrictive pulmonary disease including dyspnea at rest from any cause) that could cause unacceptable safety risks or compromise compliance with the protocol.\npatients with a known history of hiv seropositivity. screening for hiv infection at baseline is not required.\nsignificant symptomatic deterioration of lung function. if clinically indicated, pulmonary function tests including measures of predicted lung volumes, dlco, o2 saturation at rest on room air should be considered to exclude restrictive pulmonary disease, pneumonitis or pulmonary infiltrates.\npatients being treated with drugs recognized as being strong inhibitors or inducers of the isoenzyme cyp3a at enrolment (rifabutin, rifampicin, clarithromycin, ketoconazole, itraconazole, voriconazole, ritonavir, telithromycin) continuously for at least 7 days during any time period in the last 2 weeks prior to enrolment\nknown hypersensitivity to protocol treatment\npregnant or breast feeding\nperipheral neuropathy \u201a\u00e2\u2022 grade 2 (nci ctcae version 4.0) at randomization\npatients unwilling to or unable to comply with the protocol",
+        "Extracted Criteria": {
+            "demographics_and_general_characteristics": {
+                "protocol_compliance": "No"
+            },
+            "disease_characteristics": {
+                "confirmed_metastases_breast_cancer": "No"
+            },
+            "health_and_organ_function": {
+                "sufficient_lung_function": "No",
+                "no_active_central_nervous_system_metastases": "No",
+                "no_pregnancy_nursing": "No",
+                "peripheral_neuropathy_grade_upper_bound": 2,
+                "no_positive_hiv_status": "No",
+                "measurable_lesion": "No",
+                "swallow_ability": "No"
+            },
+            "text_relating_to_medical_history": {
+                "inclusion_criteria": "patients who received prior therapy with gemcitabine; patients with more than 3 prior chemotherapy lines for treating metastatic breast cancer; patients who received prior therapy with mtor inhibitor or pi3k inhibitor; known hypersensitivity to mtor inhibitors, e.g. sirolimus (rapamycin); radiotherapy within four weeks prior to enrolment, except radiotherapy to the bone for analgesic purpose or for lytic lesions at risk of fracture; patients who have history of cancer other than in situ uterine cervix cancer or nonmelanotic skin cancer; patients being treated with drugs recognized as being strong inhibitors or inducers of the isoenzyme cyp3a at enrolment (rifabutin, rifampicin, clarithromycin, ketoconazole, itraconazole, voriconazole, ritonavir, telithromycin) continuously for at least 7 days during any time period in the last 2 weeks prior to enrolment; known hypersensitivity to protocol treatment"
+            },
+            "unused_text": {
+                "inclusion_criteria": "patients with only non-measurable lesions other than bone metastasis (e.g. pleural effusion, ascites); impairment of gastrointestinal (gi) function or gi disease that may significantly alter the absorption of oral everolimus; active ulceration of upper gastrointestinal tract; other concurrent severe and/or uncontrolled conditions (e.g. uncontrolled diabetes mellitus, active untreated or uncontrolled infection, chronic obstructive or chronic restrictive pulmonary disease including dyspnea at rest from any cause) that could cause unacceptable safety risks or compromise compliance with the protocol; significant symptomatic deterioration of lung function. if clinically indicated, pulmonary function tests including measures of predicted lung volumes, dlco, o2 saturation at rest on room air should be considered to exclude restrictive pulmonary disease, pneumonitis or pulmonary infiltrates"
+            }
+        }
+    }
+]
